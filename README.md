@@ -3,7 +3,8 @@
 Tesla's mobile website cloned with React Native
 
 ## Screenshots
-![screenshot of application on iOS](./screenshots/iOS.png)
+<!-- ![screenshot of application on iOS](./screenshots/iOS.png) -->
+<img src="./screenshots/iOS.png" alt="screenshot of application on iOS" width="220">
 
 ## Installation
 
